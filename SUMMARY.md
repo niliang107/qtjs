@@ -16,6 +16,8 @@
 * 第三部分 [自我指导](section1-11.md)
     * [第十一章 金科玉律：身体的智慧](section1-11.md) 
     * [第十二章 训练计划：日程](section1-12.md)
+* 其他
+    * 推荐阅读[Markdown教程入门](markdownguide.md)
 
 
 
